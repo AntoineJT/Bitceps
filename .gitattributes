@@ -1,0 +1,12 @@
+*.eot   binary
+*.jpg   binary
+*.png   binary
+*.svg   binary
+*.ttf   binary
+*.woff  binary
+
+bootstrap.css   linguist-vendored
+font-icons.css  linguist-vendored
+
+assets/js/   linguist-vendored
+assets/css/  linguist-vendored
